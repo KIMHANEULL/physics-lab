@@ -3,7 +3,7 @@ import pandas as pd
 import re
 
 # 🔑 [보안 설정] 다른 선생님들과 공유할 사이트 비밀번호를 여기에 지정하세요!
-SITE_PASSWORD = "가상실험"  # 원하는 비밀번호로 수정 가능합니다.
+SITE_PASSWORD = "rktkdtlfgja"  # 원하는 비밀번호로 수정 가능합니다.
 
 # 사이트 기본 테마를 무조건 밝은 모드로 고정하는 설정
 import streamlit as n
